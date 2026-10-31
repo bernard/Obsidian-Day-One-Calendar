@@ -1,6 +1,8 @@
-# Day One Calendar
+# Osidian Day One Calendar
 
 An Obsidian desktop/mobile calendar for journal notes stored in `Day-One/YYYY/MM/YYYY-MM-DD HHmmss.md`.
+
+This structure was created once Imported from DayOne using [Day One Importer](https://github.com/marcdonald/obsidian-day-one-importer)
 
 ## Features
 
