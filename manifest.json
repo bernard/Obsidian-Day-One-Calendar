@@ -1,0 +1,9 @@
+{
+  "id": "day-one-calendar",
+  "name": "Day One Calendar",
+  "version": "1.2.1",
+  "minAppVersion": "1.5.0",
+  "description": "Browse and create timestamped journal entries with a year, month and day calendar.",
+  "author": "Bernard B",
+  "isDesktopOnly": false
+}
